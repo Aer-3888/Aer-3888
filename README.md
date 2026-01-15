@@ -1,13 +1,140 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:7F52FF&height=220&section=header&text=Théo%20Phan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20•%20Data%20Science%20•%20AI%20Engineer&descAlignY=55&descAlign=50" />
+  
+  <br/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.aer.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/théo-phan-b519aa251) 
+  <a href="https://www.linkedin.com/in/th%C3%A9o-phan-b519aa251/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/.aer.">
+    <img src="https://img.shields.io/badge/Discord-Add%20Me-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:theo.phan.quoc.huy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aer-3888&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aer-3888&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aer-3888&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Aer-3888&icon=0&color=8)](https://visitcount.itsvg.in)
+<table align="center" width="100%" style="border:0;">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🎓 About Me</h2>
+      <p>
+        <strong>Computer Science Student & Aspiring AI Engineer.</strong> <br/>
+        I am passionate about uncovering insights from data and building intelligent systems. Currently honing my skills in algorithmic logic and statistical computing, I aim to merge technical precision with creative problem-solving to build the next generation of AI tools.
+      </p>
+      <br/>
+       <h3>📚 Current Focus</h3>
+       <ul>
+         <li><strong>Data Science:</strong> Predictive modeling with Python (Pandas/NumPy) & R.</li>
+         <li><strong>AI & Logic:</strong> Machine Learning concepts, Logic Programming (Prolog), and Functional Programming (OCaml).</li>
+         <li><strong>Creative Tech:</strong> Visualizing data through UI/UX design (Adobe Suite).</li>
+       </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h2>🧗 Hobbies & Interests</h2>
+      <p>When I'm not debugging code, I'm solving puzzles in the real world.</p>
+      <img src="https://img.shields.io/badge/Sport-Boulder_Climbing_🧗-FF7F50?style=flat-square&logoColor=white" />
+      <br/>
+      <small><i>Physical problem solving on the wall.</i></small>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Logic-Escape_Games_🧩-8A2BE2?style=flat-square&logoColor=white" />
+      <br/>
+      <small><i>Team strategy and immersive puzzles.</i></small>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Art-Photography_📸-black?style=flat-square&logo=instagram&logoColor=white" />
+      <br/>
+      <small><i>Capturing moments & visual storytelling.</i></small>
+    </td>
+  </tr>
+</table>
+<br/>
+
+<h2 align="center">🛠️ Technical Arsenal</h2>
+<table align="center" style="border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td align="center" width="33%" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px; vertical-align: top;">
+      <h3>🤖 Data Science & AI</h3>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" />
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" />
+    </td>
+    <td align="center" width="33%" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px; vertical-align: top;">
+      <h3>💻 Software Engineering</h3>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+    </td>
+    <td align="center" width="33%" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px; vertical-align: top;">
+      <h3>🎨 Creative Studio</h3>
+      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe%20Premiere-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/DaVinci_Resolve-333333?style=flat&logo=davinciresolve&logoColor=white" />
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">📦 Featured Projects</h2>
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td width="33%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+        <img src="https://via.placeholder.com/300x150/00ADD8/ffffff?text=Project+Title" alt="Project Image" width="100%" style="border-radius: 8px;" />
+        <br/><br/>
+        <strong>Project Title 1</strong>
+        <br/>
+        <p align="left" style="font-size: 13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.</p>
+        <a href="https://github.com/Aer-3888/REPO_NAME_HERE">
+          <img src="https://img.shields.io/badge/View_Code-238636?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+    </td>
+    <td width="33%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+        <img src="https://via.placeholder.com/300x150/7F52FF/ffffff?text=Project+Title" alt="Project Image" width="100%" style="border-radius: 8px;" />
+        <br/><br/>
+        <strong>Project Title 2</strong>
+        <br/>
+        <p align="left" style="font-size: 13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.</p>
+        <a href="https://github.com/Aer-3888/REPO_NAME_HERE">
+          <img src="https://img.shields.io/badge/View_Code-238636?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+    </td>
+    <td width="33%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+        <img src="https://via.placeholder.com/300x150/EC6813/ffffff?text=Project+Title" alt="Project Image" width="100%" style="border-radius: 8px;" />
+        <br/><br/>
+        <strong>Project Title 3</strong>
+        <br/>
+        <p align="left" style="font-size: 13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.</p>
+        <a href="https://github.com/Aer-3888/REPO_NAME_HERE">
+          <img src="https://img.shields.io/badge/View_Code-238636?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Aer-3888&icon=0&color=8" />
+</div>
