@@ -132,9 +132,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aer-3888&icon=0&color=8" />
-</div>
