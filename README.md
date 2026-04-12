@@ -1,6 +1,6 @@
 # Hi, I'm Théo
 
-  CS student at INSA Lyon, currently figuring out where data science, AI, and good software meet.
+  CS student at INSA Rennes, currently figuring out where data science, AI, and good software meet.
 
   I got into this field because I like understanding how things work under the hood, whether that's a neural network, a dataset, or a codebase. Still learning a lot, but I enjoy the process.
 
