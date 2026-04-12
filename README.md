@@ -1,23 +1,21 @@
-# Hi there, I'm Théo Phan
+# Hi, I'm Théo
 
-**Computer Science Student • Data Science • Aspiring AI Engineer**
+  CS student at INSA Lyon, currently figuring out where data science, AI, and good software meet.
 
-I am passionate about uncovering insights from data and building intelligent systems. Currently honing my skills in algorithmic logic and statistical computing, I aim to merge technical precision with creative problem-solving to build the next generation of AI tools.
+  I got into this field because I like understanding how things work under the hood, whether that's a neural network, a dataset, or a codebase. Still learning a lot, but I enjoy the process.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/théophan-b519aa251/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theo.phan.quoc.huy@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/.aer.)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/théophan-b519aa251/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theo.phan.quoc.huy@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/.aer.)
 
----
+  ---
 
-## Current Focus
+  ## What I'm working on
 
-* **Data Science:** Predictive modeling with Python (Pandas/NumPy) & R.
-* **AI & Logic:** Machine Learning concepts, Logic Programming (Prolog), and Functional Programming (OCaml).
-* **Creative Tech:** Visualizing data through UI/UX design (Adobe Suite).
+  - Data science with Python and R — predictive modeling, data wrangling, the usual
+  - ML concepts and computer vision
+  - Some functional and logic programming on the side (OCaml, Prolog)
 
-## Hobbies & Interests
+  ## Outside of code
 
-* **Boulder Climbing:** Physical problem-solving and endurance.
-* **Escape Games:** Team strategy and applied logic.
-* **Photography:** Visual storytelling and composition.
+  Bouldering, escape rooms, and photography — basically anything that involves solving problems in weird ways.
